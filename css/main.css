@@ -67,7 +67,7 @@ body{
     #heading{
         color: #000;
     font-size: 19px;
-    margin: 37% auto 0px auto;
+    margin: 40vh auto 0px auto;
     text-align: center;
     }
     
@@ -96,7 +96,7 @@ body{
         font-size: 10px;
     }
     .blog_img_popular p{
-        font-size: 9px;
+        font-size: 11px;
     }
     .rowz{
         margin: 0px;
@@ -105,7 +105,7 @@ body{
         line-height: 50px !important;
     }
     .card-text{
-        font-size: 9px;
+        font-size: 12px;
     }
     #inc-p{
         font-size: 15px;
@@ -145,7 +145,7 @@ body{
     #heading{
         color: #000;
         font-weight: 700;
-    font-size: 26px;
+    font-size: 29px;
     margin: 100% auto 0px auto;
     text-align: center;
     }
@@ -175,7 +175,7 @@ body{
         font-size: 10px;
     }
     .blog_img_popular p{
-        font-size: 9px;
+        font-size: 13px;
     }
     .rowz{
         margin: 0px;
@@ -184,7 +184,7 @@ body{
         line-height: 50px !important;
     }
     .card-text{
-        font-size: 9px;
+        font-size: 13px;
     }
     #inc-p{
         font-size: 15px;
@@ -239,6 +239,7 @@ body{
     }
     .rowz2{
         width: 80%;
+        margin: auto;
     }
     .layout_padding_2{
         padding: 30px 0px;
@@ -261,7 +262,7 @@ body{
         font-size: 10px;
     }
     .blog_img_popular p{
-        font-size: 9px;
+        font-size: 15px;
     }
     .rowz{
         margin: 0px;
@@ -270,7 +271,7 @@ body{
         line-height: 50px !important;
     }
     .card-text{
-        font-size: 9px;
+        font-size: 16px;
     }
     #inc-p{
         font-size: 15px;
