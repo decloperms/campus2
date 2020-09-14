@@ -277,10 +277,10 @@ body{
         padding-top: 0px;
     }
     .section.layout_padding h4{
-        font-size: 10px;
+        font-size: 30px;
     }
     .blog_img_popular p{
-        font-size: 15px;
+        font-size: 18px;
     }
     .rowz{
         margin: 0px;
@@ -289,12 +289,14 @@ body{
         line-height: 50px !important;
     }
     .card-text{
-        font-size: 16px;
+        font-size: 20px;
     }
     #inc-p{
         font-size: 15px;
     }
-    
+    #acco{
+        font-size: 24px;
+    }
 }
 
 
