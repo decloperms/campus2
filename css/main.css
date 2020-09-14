@@ -23,7 +23,7 @@ body{
     height: 8vh;
     width: 28vh;
     background-repeat:no-repeat;
-    padding: 14%;
+   
 }
 
 #heading{
@@ -54,7 +54,6 @@ body{
         background-repeat : no-repeat;
         height: 10vh;
         width: 8vh;
-        padding: 28PX;
 
     }
     #top-con{
@@ -138,7 +137,6 @@ body{
         background-repeat : no-repeat;
         height: 10vh;
         width: 8vh;
-        padding: 28PX;
 
 
     }
@@ -226,7 +224,6 @@ body{
         background-repeat : no-repeat;
         height: 10vh;
         width: 8vh;
-        padding: 28px;
     }
         #program{
             margin-top: 125px;
@@ -307,7 +304,6 @@ body{
         background-repeat : no-repeat;
         height: 10vh;
         width: 8vh;
-        padding: 28PX;
 
     }
     #top-con{
