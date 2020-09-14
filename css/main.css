@@ -54,7 +54,7 @@ body{
         background-repeat : no-repeat;
         height: 10vh;
         width: 8vh;
-        padding: 27PX;
+        padding: 28PX;
 
     }
     #top-con{
@@ -66,8 +66,8 @@ body{
     }
     #heading{
         color: #000;
-    font-size: 19px;
-    margin: 40vh auto 0px auto;
+    font-size: 37px;
+    margin: 37vh auto 0px auto;
     text-align: center;
     }
     
@@ -110,11 +110,18 @@ body{
     #inc-p{
         font-size: 15px;
     }
+    #program{
+        margin-top: 76px;
+    }
     
 }
 
 
 @media all and (min-width:300px) and (max-width:400px){
+    #program{
+        margin-top: 108px;
+    }
+    
     .carousel a.carousel-control-next{
         width: 30px;
         height: 30px;
@@ -131,7 +138,7 @@ body{
         background-repeat : no-repeat;
         height: 10vh;
         width: 8vh;
-        padding: 27PX;
+        padding: 28PX;
 
 
     }
@@ -145,7 +152,7 @@ body{
     #heading{
         color: #000;
         font-weight: 700;
-    font-size: 29px;
+    font-size: 42px;
     margin: 100% auto 0px auto;
     text-align: center;
     }
@@ -172,10 +179,13 @@ body{
         padding-top: 0px;
     }
     .section.layout_padding h4{
-        font-size: 10px;
+        font-size: 30px;
+    }
+    #acco{
+        font-size: 24px;
     }
     .blog_img_popular p{
-        font-size: 13px;
+        font-size: 17px;
     }
     .rowz{
         margin: 0px;
@@ -184,10 +194,16 @@ body{
         line-height: 50px !important;
     }
     .card-text{
-        font-size: 13px;
+        font-size: 17px;
     }
     #inc-p{
         font-size: 15px;
+    }
+    #ince{
+        font-size: 40px;
+    }
+    #respo{
+        margin-top: 10%;
     }
     
 }
@@ -210,10 +226,12 @@ body{
         background-repeat : no-repeat;
         height: 10vh;
         width: 8vh;
-        padding: 27PX;
-
-
+        padding: 28px;
     }
+        #program{
+            margin-top: 125px;
+        }
+    
     #top-con{
        background-size: cover;
     margin: 0px auto;
@@ -224,7 +242,7 @@ body{
     #heading{
         color: #07528d;
         font-weight: 700;
-    font-size: 30px;
+    font-size: 43px;
     margin: 75% auto 0px auto;
     text-align: center;
     }
@@ -287,7 +305,7 @@ body{
         background-repeat : no-repeat;
         height: 10vh;
         width: 8vh;
-        padding: 27PX;
+        padding: 28PX;
 
     }
     #top-con{
@@ -300,7 +318,7 @@ body{
      #heading{
          color: #07528d;
          
-     font-size: 2rem;
+     font-size: 2.6rem;
      margin: 7% auto 0px auto;
      text-align: center;
      }
