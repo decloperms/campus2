@@ -322,7 +322,18 @@ body{
      margin: 7% auto 0px auto;
      text-align: center;
      }
- 
+     .blog_img_popular h4{
+         font-size: 30px;
+     }
+     .blog_img_popular p{
+        font-size: 22px;
+    }
+     .card-text{
+         font-size: 25px;
+     }
+     .paratop{
+         font-size: 1.4rem;
+     }
 }
 
 @media all and (min-width:750px) and (max-width:1000px){
